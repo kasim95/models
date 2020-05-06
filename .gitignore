@@ -102,3 +102,9 @@ tutorials/embedding/text8
 tutorials/embedding/questions-words.txt
 
 samples/outreach/blogs/segmentation_blogpost/carvana-image-masking-challenge/
+
+# Ignore custom model files
+research/object_detection/faster_rcnn_resnet50_training/*
+
+# ignore generated protos
+research/object_detection/protos/*
